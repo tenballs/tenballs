@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tenballs
-- 👀 I’m interested in ... deez
-- 🌱 I’m currently learning ... lolcode
-- 💞️ I’m looking to collaborate on ... you mum
-- 📫 How to reach me ... emanil
+- 👀 I’m interested in ... 7
+- 🌱 I’m currently learning ... 7
+- 💞️ I’m looking to collaborate on ... 7
+- 📫 How to reach me ... 7
 
 <!---
 tenballs/tenballs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
